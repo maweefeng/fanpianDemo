@@ -3,6 +3,5 @@
 ####友情提醒
 *本demo只是简单的实现了其中一部分功能*
 
-<iframe height=667 width=375 src="fanpianDemo/2016-08-23 22.38.29.gif
-">
+<iframe height=667 width=375 src="fanpianDemo/2016-08-23 22.38.29.gif">
 
