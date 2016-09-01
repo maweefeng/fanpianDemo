@@ -4,7 +4,7 @@
 *本demo只是简单的实现了其中一部分功能*
 
 
-![image](https://github.com/maweefeng/fanpianDemo/blob/master/2016-08-23%2022.38.29.gif?raw=true)   
+![image](https://github.com/maweefeng/fanpianDemo/blob/master/2016-09-01 15.28.12.gif?raw=true)   
 
 
 
